@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+  background-color: black;
+}
+
+.button {
+  font-size: 100%;
+  padding: 20px;
+  width: 60px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.but_1 {
+  padding: 20px 65px;
+}
+
+.but_2 {
+  background-color: orange;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+
+.row input {
+  width: 265px;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
